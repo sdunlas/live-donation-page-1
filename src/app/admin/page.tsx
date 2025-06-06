@@ -536,7 +536,7 @@ export default function AdminPage() {
               </div>
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">
-                  Accent Color
+                  Highlight Color
                 </label>
                 <input
                   type="color"
